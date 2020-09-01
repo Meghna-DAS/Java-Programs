@@ -1,0 +1,20 @@
+1)WAP to create java program that allows user to enter the book number,name of book,price of books. Create two objects and find out which has maximum value. 
+2) WAP to design a calculator 
+3)Create a class employee in employee,java and store the name,age,designation and salary for an employee.Implement tostring() method in employee so that once it is called, it can print fields of the employee separated by a comma 
+4) WAP to pass the number as argument and display square and cube of a given number 
+5) Create an array of 10 odd number.The number is generated randonly from 1 to 100, check if it is odd then store it into the array. 
+6) 10 students were asked to rate the quality of the food in the student cafeteria on a scale of 1 to 10 (where 1 means awful and 10 means excellent). Place the 10 responses in an integer array, and summarize the results of the poll. 
+7)Write a method that returns 'Fizz' for multiples of three and 'Buzz' for the multiples of five. 
+For numbers which are multiples of both three and five return 'FizzBuzz'. 
+For numbers that are neither, return the input number. 
+8)The Ceasar cipher is a basic encryption technique used by Julius Ceasar to securely communicate with his generals. Each letter is replaced by another letter N positions down the english alphabet. For example, for a rotation of 5, the letter 'c' would be replaced by an 'h'. In case of a 'z', the alphabet rotates and it is transformed into a 'd'. 
+Implement a decoder for the Ceasar cipher where N = 5. 
+9)In this program, user is asked to enter the number of rows and based on the input, the pascal’s triangle is printed with the entered number of rows. 
+Pascal triangle :- To build the triangle, start with "1" at the top, then continue placing numbers below it in a triangular pattern. Each number is the numbers directly above it added together. (Here I have highlighted that 1+3 = 4 
+10) Given a number n, write a method that sums all multiples of three and five up to n (inclusive). 
+11)Write a program in Java to display the multiplication table of a given integer. 
+e.g  Input the number (Table to be calculated) : Input number of terms : 5 
+Expected Output : table of 5 
+
+
+ 
