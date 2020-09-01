@@ -1,0 +1,39 @@
+Q1) Create a class object interest with a constructor. Write a Java Program to find the simple interest using the formula Simple Interest = PNR/100P-principle , N-number of Year , R-rate of interest.
+Q2)Write a program to find the volume of a box that has sides w, h, d as width , height and depth , respectively . It volume is v= w * h* d and also find the surface area given by the formula  s= 2(wh+hd + dw)
+Q3)Design a class to represent account, include the following members: -
+
+Data Members 
+a) Name of depositor-String
+b) Account Number –int
+c) Type of account –Boolean 
+d) Balance amount –double
+e) AnnualInterestrate -double 
+
+Methods: -
+(a)To assign initial values (use constructor)
+(b) To deposit an amount.
+(c)TO withdraw amount with the restriction the minimum balance is 50 rs. If you withdraw amount reduced the balance below 50 then print the error message.
+(d)Display the name and balance of the account.
+(e)Get_Monthly_intrestRate() -Return the monthly interest rate which is nothing but Annualintrestrate/12. Annualinterestrate is in percentage e.g 4.5%
+(f)Get_Monthly_intrest:-return themonthly interest, it is calculated as balance * Get_Monthly_intrestRate()
+
+Q4) Write a program simple prints “Wonder of the objects” inside the main method.  Without using any print statement or concrete methods or dot operators inside the main methods.
+ 
+Q5) A class of weight is having data member pound, which will have the weight in pounds. Using a conversion function, convert weight in  pounds  to weight in kilograms which is 
+double type.Write a program to do this.
+Q6) Create a class name stock that contains:-
+1) A String data field name symbol for the stock_ symbol.
+2) A string data field name of company
+3) A double data field name previousCloseingPrice that store the stock price for previous day
+4) A double data field name currentPrice that store the stock price for the current time
+5) A method  getChangepercent() that return the percentage changed in previousCloseingPrice  and  currentPrice.
+
+e.g stock Symbol is ORCL and stock name = Oracle Carporation  , the previousCloseingPrice=34.5 and current change price is 34.35 and display the price change percentage.
+Q7). Design a class FAN to represent fan. The class contains:-
+a. Three constants named Slow, Medium and FAST with the values 1,2 and 3 to denote the FAN Speed.
+b. A private int data field named speed that specifies the speed of the fan (Default is Slow)
+c. A private Boolean data field named ‘on’ that specifies whether the fan is on ( the default is false)
+d. A private double data field named radius that   specifies the radius of the fan )default is 5)
+e. A string data field named color that specifies the color of the fan (the default is blue)
+f. Define default constructor
+g. Method tostring() that returns a string description for the fan. If the Fan is on the method returns the fan speed, color,  and  radius in one combined string. If fan is not on the method returns the fan colorand radiusalong with the string “fan is off” in one combined string.h.WAP to creates two FAN objects. Assign maximumspeed, radius  10 , color Yellow and turn it on to the first Object . Assign medium speed,radius 5 , color blue and turn it off to the second objects. Display the object by invoking to string method.
