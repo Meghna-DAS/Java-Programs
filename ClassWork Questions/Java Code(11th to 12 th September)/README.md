@@ -1,4 +1,4 @@
-Inheritance problem
+##Inheritance problem
 
 Fulltime Employee  :-  EMPNO, Name , dept, email , phno, Qulification , desg,   basic pay , Month 
 Methods :- setdata(), getdata(), calsal(), display_sal();
